@@ -8,7 +8,6 @@ More details and preprint coming soon :)
 - [ ] Add details here and clean up code
 
 ## Authors
--
 
 - Joseph Anderson - `jtanderson@salisbury.edu`
 
